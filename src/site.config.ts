@@ -13,7 +13,7 @@ import type { ContactCardTitle } from "@/components/contact-card";
 
 export const siteConfig = {
   /** Site name used in metadata, logo, and branding */
-  name: "ECarry",
+  name: "The Shift Collection",
 
   /** Tagline shown alongside name (e.g. "Photo", "Photography") */
   tagline: "Photo",
@@ -22,7 +22,7 @@ export const siteConfig = {
   role: "Photographer",
 
   /** Short bio shown on the home page profile card */
-  bio: "I'm ECarry, a photographer dedicated to capturing authentic moments and telling stories through creative and emotional imagery, wherever my journey takes me.",
+  bio: "I'm Dylan, a photographer dedicated to capturing authentic moments and telling stories through creative and emotional imagery, wherever my journey takes me.",
 
   /** Avatar image path (place your avatar in /public/avatar.jpg) */
   avatar: "/avatar.jpg",
@@ -33,21 +33,21 @@ export const siteConfig = {
   /** Site metadata for SEO */
   metadata: {
     title: {
-      template: "%s - ECarry Photography",
-      default: "ECarry Photography",
+      template: "%s - The Shift Collection",
+      default: "The Shift Collection",
     },
-    description: "ECarry Photography",
+    description: "The Shift Collection",
   },
 
   /** Social links shown in profile card and footer */
   socialLinks: [
     {
       title: "Instagram",
-      href: "https://instagram.com/ekkooooooooooo0o0",
+      href: "https://instagram.com/theshiftcollection.us",
     },
     {
-      title: "GitHub",
-      href: "https://github.com/ecarry",
+      title: "DirtyE9X",
+      href: "https://www.dirtye9x.com/",
     },
     {
       title: "Xiaohongshu",
@@ -55,7 +55,7 @@ export const siteConfig = {
     },
     {
       title: "Contact me",
-      href: "mailto:lianshiliang93@gmail.com",
+      href: "mailto:theshiftcollection@proton.me",
       /** If true, this link gets the primary button style */
       primary: true,
     },
@@ -68,8 +68,8 @@ export const siteConfig = {
       href: "https://templates.gola.io/template/hanssen",
     },
     poweredBy: {
-      name: "ECarry",
-      href: "https://github.com/ecarry",
+      name: "The Shift Collection",
+      href: "https://github.com/The Shift Collection",
     },
   },
 
@@ -79,8 +79,8 @@ export const siteConfig = {
    * Create your own at https://studio.mapbox.com/
    */
   mapbox: {
-    lightStyle: "mapbox://styles/ecarry/cldmhu6tr000001n33ujbxf7j",
-    darkStyle: "mapbox://styles/ecarry/clp8hcmd300km01qx78rt0xaw",
+    lightStyle: "mapbox://styles/The Shift Collection/cldmhu6tr000001n33ujbxf7j",
+    darkStyle: "mapbox://styles/The Shift Collection/clp8hcmd300km01qx78rt0xaw",
   },
 
   /**
@@ -95,8 +95,8 @@ export const siteConfig = {
    * Each item has a brand and model name.
    */
   gear: [
-    { brand: "SONY", model: "Alpha 7RⅡ" },
-    { brand: "DJI", model: "Air 2S" },
+    { brand: "Canon", model: "R10" },
+    { brand: "DJI", model: "RS 3 Mini" },
     { brand: "Tamron", model: "50-400mm F/4.5-6.3 Di III VC VXD" },
     { brand: "Sigma", model: "35mm F/1.4 DG HSM" },
     { brand: "Viltrox", model: "AF 40mm F/2.5 FE" },
